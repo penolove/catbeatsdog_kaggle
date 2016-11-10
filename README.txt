@@ -11,5 +11,5 @@ vgg-pretrained : https://github.com/pavelgonchar/vgg-face-tensorflow
 resnet-pretrained : https://github.com/ry/tensorflow-resnet
 
 
-download dataset and pretrained model
+download dataset and finetuned fc model
 https://drive.google.com/drive/folders/0BxRU7n3UdSpqem9BcWNuTm1kTmc?usp=sharing
